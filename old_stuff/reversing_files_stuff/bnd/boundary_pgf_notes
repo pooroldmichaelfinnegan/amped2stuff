@@ -1,0 +1,5 @@
+NZ1
+    0 endzone
+    1 inner freeroam boundary
+    2 outer freeroam boundary
+    3 resets maybe? random trails, lines (mode=1), rest are line loops (mode=2), double size of what file says

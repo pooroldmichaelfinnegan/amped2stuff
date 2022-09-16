@@ -1,0 +1,56 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+      "nodes": [ 0 ]
+    }],
+    "nodes": [{
+      "mesh": 0
+    }],
+    "materials": [{
+      "doubleSided": true
+    }],
+    "meshes": [{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 1
+        },
+        "indices": 0,
+        "material": 0,
+        "mode": 5
+      }]
+    }],
+    "accessors": [{
+      "bufferView": 0,
+      "byteOffset": 0,
+      "count": 260,
+      "componentType": 5123,
+      "type": "SCALAR",
+      "max": [ 129 ],
+      "min": [ 0 ]
+    },{
+      "bufferView": 1,
+      "byteOffset": 0,
+      "count": 130,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 979.9348754882812, 1426.1712646484375, 1377.113525390625 ],
+      "min": [ 802.3434448242188, 1237.1812744140625, 1184.6717529296875 ]
+    }],
+    "bufferViews": [{
+      "buffer": 0,
+      "byteLength": 520,
+      "byteOffset": 0,
+      "target": 34963
+    },{
+      "buffer": 0,
+      "byteLength": 1560,
+      "byteOffset": 520,
+      "byteStride": 12,
+      "target": 34962
+    }],
+    "buffers": [{
+      "uri": "./can_we_fix_it.bin",
+      "byteLength": 2080
+    }]
+  }

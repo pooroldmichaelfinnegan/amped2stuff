@@ -1,0 +1,93 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+      "nodes": [ 0, 1, 2, 3 ]
+    }],
+    "nodes": [
+      { "mesh": 0 },
+      { "mesh": 1 },
+      { "mesh": 2 },
+      { "mesh": 3 }
+    ],
+    "materials": [{
+      "doubleSided": false
+    }],
+    "meshes": [{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 0
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 1
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 2
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 3
+        },
+        "material": 0,
+        "mode": 1
+      }]
+    }],
+    "accessors": [{
+      "bufferView": 0,
+      "byteOffset": 4,
+      "count": 5,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ -942.5733642578125, 0, 645.1199340820312 ],
+      "min": [ -1210.4061279296875, -2.910382709570697e-13, 449.7022399902344 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 68,
+      "count": 26,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 518.8759155273438, 0, 580.582763671875 ],
+      "min": [ -1173.531494140625, -2.910382709570697e-13, -183.8535919189453 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 384,
+      "count": 25,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 581.784912109375, 0, 612.697021484375 ],
+      "min": [ -1214.851806640625, -2.910382709570697e-13, -192.74961853027344 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 688,
+      "count": 262,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 393.7242736816406, 0, 505.10064697265625 ],
+      "min": [ -1125.850341796875, 0, -62.90052795410156 ]
+    }],
+    "bufferViews": [{
+      "buffer": 0,
+      "byteLength": 3832,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    }],
+    "buffers": [{
+      "uri": "./AU2_opposite_z.bnd",
+      "byteLength": 3832
+    }]
+  }

@@ -1,0 +1,33 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0, 1 ]
+  }],
+  "nodes": [
+    { "mesh": 0 },
+    { "mesh": 1 }
+  ],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [
+    { "name": "0", "primitives": [{ "mode": 0, "attributes": { "POSITION": 0 }, "material": 0 }] },
+    { "name": "0", "primitives": [{ "mode": 0, "attributes": { "POSITION": 1 }, "material": 0 }] }
+  ],
+ "accessors": [
+    { "bufferView": 0, "byteOffset": 0, "count": 694, "componentType": 5126, "type": "VEC3", "max": [ 1793.9794921875, 1074.1734619140625, 1000.3508911132812 ], "min": [ 629.9739990234375, 513.1697387695312, 666.12158203125 ] },
+    { "bufferView": 0, "byteOffset": 0, "count": 694, "componentType": 5126, "type": "VEC3", "max": [ 1793.9794921875, 1074.1734619140625, 1000.3508911132812 ], "min": [ 629.9739990234375, 513.1697387695312, 666.12158203125 ] }
+],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 49968,
+    "byteOffset": 11279336,
+    "byteStride": 72,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./BK1.pgf",
+    "byteLength": 12688060
+  }]
+}

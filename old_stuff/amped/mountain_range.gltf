@@ -1,0 +1,41 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+        "nodes": [ 0 ]
+    }],
+    "nodes": [{
+        "mesh": 0
+    }],
+    "materials": [{
+        "doubleSided": true
+    }],
+    "meshes": [{
+        "primitives": [{
+            "attributes": {
+                "POSITION": 0
+            },
+            "material": 0,
+            "mode": 0
+        }]
+    }],
+    "accessors": [{
+        "bufferView": 0,
+        "count": 16398,
+        "componentType": 5126,
+        "type": "VEC3",
+        "max": [ 6526.93408203125, 1863.3133544921875, 6437.81640625 ],
+        "min": [ -5871.30078125, -1607.915771484375, -4424.72705078125 ]
+    }],
+    "bufferViews": [{
+        "buffer": 0,
+        "byteLength": 393552,
+        "byteOffset": 6093464,
+        "byteStride": 24,
+        "target": 34962
+    }],
+    "buffers": [{
+        "uri": "./nz1.pgf.bin",
+        "byteLength": 8957632
+    }]
+}

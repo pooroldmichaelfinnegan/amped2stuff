@@ -1,0 +1,95 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0, 1, 2 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  },
+  {
+    "mesh": 1
+  },
+  {
+    "mesh": 2
+  }],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  },
+  {
+    "primitives": [{
+      "attributes": {
+        "POSITION": 1
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  },
+  {
+    "primitives": [{
+      "attributes": {
+        "POSITION": 2
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "count": 76380,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1299.6739501953125, 1728.61962890625, 1377.113525390625 ],
+    "min": [ 128.73582458496094, 778.9967041015625, 186.45408630371094 ]
+  },
+  {
+    "bufferView": 1,
+    "count": 1442,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1330.7890625, 1734.8021240234375, 1429.3643798828125 ],
+    "min": [ -12.176804542541504, 706.6969604492188, 70.90370178222656 ]
+  },
+  {
+    "bufferView": 2,
+    "count": 16398,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 6526.93408203125, 1863.3133544921875, 6437.81640625 ],
+    "min": [ -5871.30078125, -1607.915771484375, -4424.72705078125 ]
+}],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 2138640,
+    "byteOffset": 3952400,
+    "byteStride": 28,
+    "target": 34962
+  },
+  {
+    "buffer": 0,
+    "byteLength": 40376,
+    "byteOffset": 6487016,
+    "byteStride": 28,
+    "target": 34962
+  },
+  {
+    "buffer": 0,
+    "byteLength": 393552,
+    "byteOffset": 6093464,
+    "byteStride": 24,
+    "target": 34962
+}],
+  "buffers": [{
+    "uri": "./nz1.pgf.bin",
+    "byteLength": 8957632
+  }]
+}

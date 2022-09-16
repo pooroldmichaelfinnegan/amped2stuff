@@ -1,0 +1,56 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  }],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 1
+      },
+      "indices": 0,
+      "material": 0,
+      "mode": 5
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 618,
+    "componentType": 5123,
+    "type": "SCALAR",
+    "max": [ 406 ],
+    "min": [ 0 ]
+  },{
+    "bufferView": 1,
+    "byteOffset": 0,
+    "count": 407,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1.7282055616378784, -6.7595295906066895, 0.8883033990859985 ],
+    "min": [ -0.7820807099342346, -9.23587417602539, 0.25259867310523987 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 1236,
+    "byteOffset": 53676,
+    "target": 34963
+  },{
+    "buffer": 0,
+    "byteLength": 9768,
+    "byteOffset": 43896,
+    "byteStride": 24,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./BK_Lift_Chair.PGF.bin",
+    "byteLength": 55956
+  }]
+}

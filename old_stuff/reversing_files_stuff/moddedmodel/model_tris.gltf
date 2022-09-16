@@ -1,0 +1,57 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+      "nodes": [ 0 ]
+    }],
+    "nodes": [{
+      "mesh": 0
+    }],
+    "materials": [
+      { "doubleSided": false },
+      { "doubleSided": true }
+    ],
+    "meshes": [{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 1
+        },
+        "indices": 0,
+        "material": 0,
+        "mode": 4
+      }]
+    }],
+    "accessors": [{
+      "bufferView": 0,
+      "byteOffset": 0,
+      "count": 467409,
+      "componentType": 5125,
+      "type": "SCALAR",
+      "max": [ 76379 ],
+      "min": [ 0 ]
+    },{
+      "bufferView": 1,
+      "byteOffset": 0,
+      "count": 76380,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 1299.6739501953125, 1728.61962890625, -186.45408630371094 ],
+      "min": [ 128.73582458496094, 778.9967041015625, -1377.113525390625 ]
+    }],
+    "bufferViews": [{   
+      "buffer": 0,
+      "byteLength": 1869636,
+      "byteOffset": 0,
+      "target": 34963
+    },{
+      "buffer": 0,
+      "byteLength": 916560,
+      "byteOffset": 1869636,
+      "byteStride": 12,
+      "target": 34962
+    }],
+    "buffers": [{
+      "uri": "./model_tris.bin",
+      "byteLength": 2786196
+    }]
+  }

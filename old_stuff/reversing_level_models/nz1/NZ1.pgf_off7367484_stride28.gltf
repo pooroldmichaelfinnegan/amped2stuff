@@ -1,0 +1,44 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 3 ]
+  }],
+  "nodes": [
+    { "mesh": 0 },
+    { "mesh": 1 },
+    { "mesh": 2 },
+    { "mesh": 3 }
+  ],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [
+    { "name": "0", "primitives": [{ "attributes": { "POSITION": 0 }, "mode": 0, "material": 0 }]},
+    { "name": "1", "primitives": [{ "attributes": { "POSITION": 1 }, "mode": 0, "material": 0 }]},
+    { "name": "2", "primitives": [{ "attributes": { "POSITION": 0 }, "indices": 2, "mode": 0, "material": 0 }]},
+    { "name": "3", "primitives": [{ "attributes": { "POSITION": 0 }, "indices": 3, "mode": 0, "material": 0 }]}
+  ],
+ "accessors": [
+    { "bufferView": 1, "byteOffset": 0, "count": 24468, "componentType": 5126, "type": "VEC3", "max": [ 1728.61962890625, 1734.8021240234375, 1734.8021240234375 ], "min": [ -12.176804542541504, -12.176804542541504, -12.176804542541504 ] },
+    { "bufferView": 1, "byteOffset": 12, "count": 24468, "componentType": 5126, "type": "VEC3", "max": [ 1734.8021240234375, 1734.8021240234375, 1734.8021240234375 ], "min": [ -12.176804542541504, -12.176804542541504, -12.176804542541504 ] },
+    { "bufferView": 0, "byteOffset": 0, "count": 110137, "componentType": 5123, "type": "SCALAR", "max": [ 15361 ] , "min": [ 0 ] },
+    { "bufferView": 0, "byteOffset": 220276, "count": 82872, "componentType": 5123, "type": "SCALAR", "max": [ 16434 ] , "min": [ 0 ] }
+  ],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 573594,
+    "byteOffset": 8052604,
+    "target": 34963
+  }, {
+    "buffer": 0,
+    "byteLength": 685120,
+    "byteOffset": 7367484,
+    "byteStride": 28,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./NZ1.pgf",
+    "byteLength": 8957632
+  }]
+}

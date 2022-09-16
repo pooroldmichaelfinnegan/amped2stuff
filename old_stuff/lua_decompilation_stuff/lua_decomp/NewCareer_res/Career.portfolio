@@ -1,0 +1,550 @@
+Portfolio =
+{
+	NewStuff = false,
+	Progression =
+	{
+		{
+			Path = "Port_Career_Shop_Sponsor.xmv",
+			Label = "ShopRiderVideo",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Career_Turning_Pro.xmv",
+			Label = "ProRiderVideo",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Career_Superstar.xmv",
+			Label = "SuperStarVideo",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Career_Number1.xmv",
+			Label = "NumberOneVideo",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Career_legend.xmv",
+			Label = "LegendVideo",
+			Unlocked = false,
+		},
+	},
+	Sponsor =
+	{
+		{
+			Path = "ML1_SponsorChal1_Reward",
+			Label = "SponsorStuff1",
+			Unlocked = false,
+		},
+		{
+			Path = "ML1_SponsorChal2_Reward",
+			Label = "SponsorStuff2",
+			Unlocked = false,
+		},
+		{
+			Path = "ML1_SponsorChal3_Reward",
+			Label = "SponsorStuff3",
+			Unlocked = false,
+		},
+		{
+			Path = "BK1_SponsorChal1_Reward",
+			Label = "SponsorStuff4",
+			Unlocked = false,
+		},
+		{
+			Path = "BK1_SponsorChal2_Reward",
+			Label = "SponsorStuff5",
+			Unlocked = false,
+		},
+		{
+			Path = "BK1_SponsorChal3_Reward",
+			Label = "SponsorStuff6",
+			Unlocked = false,
+		},
+		{
+			Path = "BR2_SponsorChal1_Reward",
+			Label = "SponsorStuff7",
+			Unlocked = false,
+		},
+		{
+			Path = "BR2_SponsorChal2_Reward",
+			Label = "SponsorStuff8",
+			Unlocked = false,
+		},
+		{
+			Path = "BR2_SponsorChal3_Reward",
+			Label = "SponsorStuff9",
+			Unlocked = false,
+		},
+		{
+			Path = "HD2_SponsorChal1_Reward",
+			Label = "SponsorStuff10",
+			Unlocked = false,
+		},
+		{
+			Path = "HD2_SponsorChal2_Reward",
+			Label = "SponsorStuff11",
+			Unlocked = false,
+		},
+		{
+			Path = "HD2_SponsorChal3_Reward",
+			Label = "SponsorStuff12",
+			Unlocked = false,
+		},
+		{
+			Path = "LX1_SponsorChal1_Reward",
+			Label = "SponsorStuff13",
+			Unlocked = false,
+		},
+		{
+			Path = "LX1_SponsorChal2_Reward",
+			Label = "SponsorStuff14",
+			Unlocked = false,
+		},
+		{
+			Path = "LX1_SponsorChal3_Reward",
+			Label = "SponsorStuff15",
+			Unlocked = false,
+		},
+		{
+			Path = "AU2_SponsorChal1_Reward",
+			Label = "SponsorStuff16",
+			Unlocked = false,
+		},
+		{
+			Path = "AU2_SponsorChal2_Reward",
+			Label = "SponsorStuff17",
+			Unlocked = false,
+		},
+		{
+			Path = "AU2_SponsorChal3_Reward",
+			Label = "SponsorStuff18",
+			Unlocked = false,
+		},
+		{
+			Path = "NZ1_SponsorChal1_Reward",
+			Label = "SponsorStuff19",
+			Unlocked = false,
+		},
+		{
+			Path = "NZ1_SponsorChal2_Reward",
+			Label = "SponsorStuff20",
+			Unlocked = false,
+		},
+		{
+			Path = "NZ1_SponsorChal3_Reward",
+			Label = "SponsorStuff21",
+			Unlocked = false,
+		},
+		{
+			Path = "ML2_SponsorChal1_Reward",
+			Label = "SponsorStuff22",
+			Unlocked = false,
+		},
+		{
+			Path = "ML2_SponsorChal2_Reward",
+			Label = "SponsorStuff23",
+			Unlocked = false,
+		},
+		{
+			Path = "ML2_SponsorChal3_Reward",
+			Label = "SponsorStuff24",
+			Unlocked = false,
+		},
+		{
+			Path = "BR4_SponsorChal1_Reward",
+			Label = "SponsorStuff25",
+			Unlocked = false,
+		},
+		{
+			Path = "BR4_SponsorChal2_Reward",
+			Label = "SponsorStuff26",
+			Unlocked = false,
+		},
+		{
+			Path = "BR4_SponsorChal3_Reward",
+			Label = "SponsorStuff27",
+			Unlocked = false,
+		},
+		{
+			Path = "LX2_SponsorChal1_Reward",
+			Label = "SponsorStuff28",
+			Unlocked = false,
+		},
+		{
+			Path = "LX2_SponsorChal2_Reward",
+			Label = "SponsorStuff29",
+			Unlocked = false,
+		},
+		{
+			Path = "LX2_SponsorChal3_Reward",
+			Label = "SponsorStuff30",
+			Unlocked = false,
+		},
+	},
+	PhotoShoot =
+	{
+		{
+			Path = "",
+			Label = "PhotoShootReplay1",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay2",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay3",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay4",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay5",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay6",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay7",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay8",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay9",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay10",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay11",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay12",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay13",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay14",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay15",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay16",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay17",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay18",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay19",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay20",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay21",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay22",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay23",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay24",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay25",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay26",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay27",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay28",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay29",
+			Unlocked = false,
+		},
+		{
+			Path = "",
+			Label = "PhotoShootReplay30",
+			Unlocked = false,
+		},
+	},
+	OTMVideos =
+	{
+		{
+			Path = "Port_Own Mtn_Snowskate_1.xmv",
+			Label = "OTMVideo1",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_Female_Modeling.xmv",
+			Label = "OTMVideo2",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_Level_Building.xmv",
+			Label = "OTMVideo3",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_Livin_Proof_Teaser.xmv",
+			Label = "OTMVideo4",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_Male_Modeling.xmv",
+			Label = "OTMVideo5",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_Jeff.xmv",
+			Label = "OTMVideo6",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_MoCap_1.xmv",
+			Label = "OTMVideo7",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_MoCap_2.xmv",
+			Label = "OTMVideo8",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_On_Location.xmv",
+			Label = "OTMVideo9",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_OwnMtn_Snowskate_2.xmv",
+			Label = "OTMVideo10",
+			Unlocked = false,
+		},
+	},
+	ProBios =
+	{
+		{
+			Path = "Port_ProVideo_Jason_Murphy.xmv",
+			Label = "ProName1",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Bjorn_Leines.xmv",
+			Label = "ProName2",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Mitch_Nelson.xmv",
+			Label = "ProName3",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Janna_Meyen.xmv",
+			Label = "ProName4",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Seth_Huot.xmv",
+			Label = "ProName5",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_JP_Walker.xmv",
+			Label = "ProName6",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Bobby_Meeks.xmv",
+			Label = "ProName7",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Torah_Bright.xmv",
+			Label = "ProName8",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Scotty_Arnold.xmv",
+			Label = "ProName9",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Yoshi.xmv",
+			Label = "ProName10",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Gigi_Ruff.xmv",
+			Label = "ProName11",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Mikey_Leblanc.xmv",
+			Label = "ProName12",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Jeremy_Jones.xmv",
+			Label = "ProName13",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_ProVideo_Travis_Parker.xmv",
+			Label = "ProName14",
+			Unlocked = false,
+		},
+	},
+	MediaVideos =
+	{
+		{
+			Path = "Port_Media_Media_in_General.xmv",
+			Label = "MediaVideo1",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Media_Video_Part.xmv",
+			Label = "MediaVideo2",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Media_Magazine_Cover.xmv",
+			Label = "MediaVideo3",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Media_Video_Cover.xmv",
+			Label = "MediaVideo4",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Media_Guest_Editor.xmv",
+			Label = "MediaVideo5",
+			Unlocked = false,
+		},
+	},
+	SponsorVideos =
+	{
+		{
+			Path = "Port_Sponsor_Burton.xmv",
+			Label = "Port_Sponsor_Burton",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Dragon.xmv",
+			Label = "Port_Sponsor_Dragon",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Sessions.xmv",
+			Label = "Port_Sponsor_Sessions",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Neff_Headwear.xmv",
+			Label = "Port_Sponsor_Neff_Headwear",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Capita.xmv",
+			Label = "Port_Sponsor_Capita",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Volcom.xmv",
+			Label = "Port_Sponsor_Volcom",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Snowboarder_Magazine.xmv",
+			Label = "Port_Sponsor_Snowboarder_Magazine",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_K2.xmv",
+			Label = "Port_Sponsor_K2",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_DC_Shoes.xmv",
+			Label = "Port_Sponsor_DC_Shoes",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Milosport.xmv",
+			Label = "Port_Sponsor_Milosport",
+			Unlocked = false,
+		},
+		{
+			Path = "Port_Sponsor_Forum.xmv",
+			Label = "Port_Sponsor_Forum",
+			Unlocked = false,
+		},
+	},
+}

@@ -1,0 +1,93 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+      "nodes": [ 0, 1, 2, 3 ]
+    }],
+    "nodes": [
+      { "mesh": 0 },
+      { "mesh": 1 },
+      { "mesh": 2 },
+      { "mesh": 3 }
+    ],
+    "materials": [{
+      "doubleSided": false
+    }],
+    "meshes": [{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 0
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 1
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 2
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 3
+        },
+        "material": 0,
+        "mode": 1
+      }]
+    }],
+    "accessors": [{
+      "bufferView": 0,
+      "byteOffset": 4,
+      "count": 12,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ -904.0824584960938, -518.7218627929688, -861.0625 ],
+      "min": [ -1447.2955322265625, -518.7218627929688, -1268.2840576171875 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 152,
+      "count": 68,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 155.15936279296875, 196.99998474121094, 867.6170654296875 ],
+      "min": [ -1360.775634765625, 196.99998474121094, -1196.1683349609375 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 972,
+      "count": 68,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 177.5825653076172, 196.99998474121094, 887.5090942382812 ],
+      "min": [ -1409.2086181640625, 196.99998474121094, -1219.80712890625 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 1792,
+      "count": 140,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 21.198711395263672, 0, 670.4497680664062 ],
+      "min": [ -1197.9241943359375, 0, -939.2683715820312 ]
+    }],
+    "bufferViews": [{
+      "buffer": 0,
+      "byteLength": 3472,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    }],
+    "buffers": [{
+      "uri": "./LX1.bnd",
+      "byteLength": 3472
+    }]
+  }

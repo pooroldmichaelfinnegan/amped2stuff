@@ -1,0 +1,599 @@
+{
+    'ScriptedObjects': {
+        'DecisionTreeFileName': {
+            1.0: 'ScriptTable'
+        },
+        'Objects': [{
+            'Name': 'MediaIconManager1',
+            'Type': 'MediaIconManager',
+            'TypeSpecificData': {
+                'ScriptName': 'MediaIcon',
+                'ScriptedObjectData': [{
+                    'Position': [1110.299926757813, 1529.999877929688, 678.388916015625],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1043.219848632813, 1499.999877929688, 703.4259643554688],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1096.81982421875, 1564.999877929688, 730.470947265625],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1021.569946289063, 1437.999877929688, 673.8269653320312],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [816.2449340820312, 1246.999877929688, 631.9039306640625],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [674.7769775390625, 1142.999877929688, 670.3269653320312],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [814.8469848632812, 1319.999877929688, 770.2349243164062],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [670.4799194335938, 1212.999877929688, 751.3649291992188],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1036.89990234375, 1386.999877929688, 994.784912109375],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [968.1979370117188, 1324.999877929688, 988.1049194335938],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [936.5529174804688, 1304.999877929688, 1026.299926757813],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [915.1639404296875, 1254.999877929688, 1074.229858398438],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [768.9639282226562, 1173.999877929688, 959.5869750976562],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [550.2169189453125, 1053.999877929688, 849.6409301757812],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1165.259887695313, 1509.999877929688, 907.2379150390625],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1204.489868164063, 1655.999877929688, 822.6989135742188],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1182.289916992188, 1676.999877929688, 740.0949096679688],
+                    'Rotation': 90.0
+                }, {
+                    'Position': [1060.10986328125, 1546.999877929688, 765.1639404296875],
+                    'Rotation': 90.0
+                }],
+                'Triggers': {
+                    1.0: {
+                        'ActuatorType': 'ALL',
+                        'Height': 0.0,
+                        'ParentID': -1.0,
+                        'Position': [0.0, -20.0, 0.0],
+                        'Radius': 15.0,
+                        'Type': 'Cylinder',
+                        'UseGlobalState': 0.0
+                    }
+                },
+                'Variables': {
+                    1.0: [{
+                        'Name': 'mailingList',
+                        'Reference': 'ScoringEvents',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userStringValue',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varSoundPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': 0.0
+                    }, {
+                        'Name': 'varAudioMediaVolumeActive',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 92.0
+                    }, {
+                        'Name': 'varAudioMediaVolumeInactive',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 93.0
+                    }, {
+                        'Name': 'varAudioMediaScoringInitiated',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 94.0
+                    }, {
+                        'Name': 'varAudioMediaScoringEnded',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 95.0
+                    }]
+                }
+            }
+        }, {
+            'Name': 'MediaObserver1',
+            'Type': 'ScriptedObjectInstance',
+            'TypeSpecificData': {
+                'AlwaysUpdate': 0.0,
+                'Effects': {},
+                'MainAniName': '',
+                'ObjectScale': 1.0,
+                'PGFName': 'm_videocam',
+                'Parent': {
+                    'Name': '',
+                    'PositionID': 0.0,
+                    'Type': 'None'
+                },
+                'Pos': [0.0, 0.0, 0.0],
+                'Props': {},
+                'ResetOnReset': 0.0,
+                'ScriptName': 'MediaObserver',
+                'Triggers': [{
+                    'ActuatorType': 'ALL',
+                    'ParentID': -1.0,
+                    'Position': [0.0, 1.0, 0.0],
+                    'Radius': 1.5,
+                    'Type': 'Sphere',
+                    'UseGlobalState': 0.0
+                }, {
+                    'ActuatorType': 'ALL',
+                    'Height': 55.0,
+                    'ParentID': -1.0,
+                    'Position': [0.0, -3.0, 0.0],
+                    'Radius': 15.0,
+                    'Type': 'Cylinder',
+                    'UseGlobalState': 0.0
+                }],
+                'Variables': {
+                    1.0: [{
+                        'Name': 'varObject',
+                        'Reference': 'MediaObserver1',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'object',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varObjectName',
+                        'Reference': 'MediaObserver1',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'varObjectName',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varUpperAnim',
+                        'Reference': 'video_look_up',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varLowerAnim',
+                        'Reference': 'video_look_down',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashFrontAnim',
+                        'Reference': 'observer_HitFront',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashBackAnim',
+                        'Reference': 'observer_HitBack',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashLeftAnim',
+                        'Reference': 'observer_HitLeft',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashRightAnim',
+                        'Reference': 'observer_HitRight',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varAudioMediaObserverKnockedDown',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 91.0
+                    }, {
+                        'Name': 'varSoundPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': 0.0
+                    }, {
+                        'Name': 'varCrashPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': -1.0
+                    }]
+                },
+                'YRotation': -90.0
+            }
+        }, {
+            'Name': 'MediaObserver2',
+            'Type': 'ScriptedObjectInstance',
+            'TypeSpecificData': {
+                'AlwaysUpdate': 0.0,
+                'Effects': {},
+                'MainAniName': '',
+                'ObjectScale': 1.0,
+                'PGFName': 'm_videocam',
+                'Parent': {
+                    'Name': '',
+                    'PositionID': 0.0,
+                    'Type': 'None'
+                },
+                'Pos': [0.0, 0.0, 0.0],
+                'Props': {},
+                'ResetOnReset': 0.0,
+                'ScriptName': 'MediaObserver',
+                'Triggers': [{
+                    'ActuatorType': 'ALL',
+                    'ParentID': -1.0,
+                    'Position': [0.0, 1.0, 0.0],
+                    'Radius': 1.5,
+                    'Type': 'Sphere',
+                    'UseGlobalState': 0.0
+                }, {
+                    'ActuatorType': 'ALL',
+                    'Height': 55.0,
+                    'ParentID': -1.0,
+                    'Position': [0.0, -3.0, 0.0],
+                    'Radius': 15.0,
+                    'Type': 'Cylinder',
+                    'UseGlobalState': 0.0
+                }],
+                'Variables': {
+                    1.0: [{
+                        'Name': 'varObject',
+                        'Reference': 'MediaObserver2',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'object',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varObjectName',
+                        'Reference': 'MediaObserver2',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'varObjectName',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varUpperAnim',
+                        'Reference': 'video_look_up',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varLowerAnim',
+                        'Reference': 'video_look_down',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashFrontAnim',
+                        'Reference': 'observer_HitFront',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashBackAnim',
+                        'Reference': 'observer_HitBack',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashLeftAnim',
+                        'Reference': 'observer_HitLeft',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashRightAnim',
+                        'Reference': 'observer_HitRight',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varAudioMediaObserverKnockedDown',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 91.0
+                    }, {
+                        'Name': 'varSoundPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': 0.0
+                    }, {
+                        'Name': 'varCrashPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': -1.0
+                    }]
+                },
+                'YRotation': -90.0
+            }
+        }, {
+            'Name': 'MediaObserver3',
+            'Type': 'ScriptedObjectInstance',
+            'TypeSpecificData': {
+                'AlwaysUpdate': 0.0,
+                'Effects': {},
+                'MainAniName': '',
+                'ObjectScale': 1.0,
+                'PGFName': 'm_videocam',
+                'Parent': {
+                    'Name': '',
+                    'PositionID': 0.0,
+                    'Type': 'None'
+                },
+                'Pos': [0.0, 0.0, 0.0],
+                'Props': {},
+                'ResetOnReset': 0.0,
+                'ScriptName': 'MediaObserver',
+                'Triggers': [{
+                    'ActuatorType': 'ALL',
+                    'ParentID': -1.0,
+                    'Position': [0.0, 1.0, 0.0],
+                    'Radius': 1.5,
+                    'Type': 'Sphere',
+                    'UseGlobalState': 0.0
+                }, {
+                    'ActuatorType': 'ALL',
+                    'Height': 55.0,
+                    'ParentID': -1.0,
+                    'Position': [0.0, -3.0, 0.0],
+                    'Radius': 15.0,
+                    'Type': 'Cylinder',
+                    'UseGlobalState': 0.0
+                }],
+                'Variables': {
+                    1.0: [{
+                        'Name': 'varObject',
+                        'Reference': 'MediaObserver3',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'object',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varObjectName',
+                        'Reference': 'MediaObserver3',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'varObjectName',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varUpperAnim',
+                        'Reference': 'video_look_up',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varLowerAnim',
+                        'Reference': 'video_look_down',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashFrontAnim',
+                        'Reference': 'observer_HitFront',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashBackAnim',
+                        'Reference': 'observer_HitBack',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashLeftAnim',
+                        'Reference': 'observer_HitLeft',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashRightAnim',
+                        'Reference': 'observer_HitRight',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varAudioMediaObserverKnockedDown',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 91.0
+                    }, {
+                        'Name': 'varSoundPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': 0.0
+                    }, {
+                        'Name': 'varCrashPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': -1.0
+                    }]
+                },
+                'YRotation': -90.0
+            }
+        }, {
+            'Name': 'MediaObserver4',
+            'Type': 'ScriptedObjectInstance',
+            'TypeSpecificData': {
+                'AlwaysUpdate': 0.0,
+                'Effects': {},
+                'MainAniName': '',
+                'ObjectScale': 1.0,
+                'PGFName': 'm_videocam',
+                'Parent': {
+                    'Name': '',
+                    'PositionID': 0.0,
+                    'Type': 'None'
+                },
+                'Pos': [0.0, 0.0, 0.0],
+                'Props': {},
+                'ResetOnReset': 0.0,
+                'ScriptName': 'MediaObserver',
+                'Triggers': [{
+                    'ActuatorType': 'ALL',
+                    'ParentID': -1.0,
+                    'Position': [0.0, 1.0, 0.0],
+                    'Radius': 1.5,
+                    'Type': 'Sphere',
+                    'UseGlobalState': 0.0
+                }, {
+                    'ActuatorType': 'ALL',
+                    'Height': 55.0,
+                    'ParentID': -1.0,
+                    'Position': [0.0, -3.0, 0.0],
+                    'Radius': 15.0,
+                    'Type': 'Cylinder',
+                    'UseGlobalState': 0.0
+                }],
+                'Variables': {
+                    1.0: [{
+                        'Name': 'varObject',
+                        'Reference': 'MediaObserver4',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'object',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varObjectName',
+                        'Reference': 'MediaObserver4',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'varObjectName',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varUpperAnim',
+                        'Reference': 'video_look_up',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varLowerAnim',
+                        'Reference': 'video_look_down',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashFrontAnim',
+                        'Reference': 'observer_HitFront',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashBackAnim',
+                        'Reference': 'observer_HitBack',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashLeftAnim',
+                        'Reference': 'observer_HitLeft',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varCrashRightAnim',
+                        'Reference': 'observer_HitRight',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'animation',
+                        'Value': -1.0
+                    }, {
+                        'Name': 'varAudioMediaObserverKnockedDown',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'soundID',
+                        'Value': 91.0
+                    }, {
+                        'Name': 'varSoundPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': 0.0
+                    }, {
+                        'Name': 'varCrashPositionID',
+                        'Reference': '',
+                        'TableValue': [0.0, 0.0, 0.0],
+                        'Type': 'userIntValue',
+                        'Value': -1.0
+                    }]
+                },
+                'YRotation': -90.0
+            }
+        }, {
+            'Name': 'MediaObserverSet1',
+            'Type': 'MediaCameramanManager',
+            'TypeSpecificData': {
+                'ScriptedObjectData': [{
+                    'Position': [1117.519897460938, 1527.139892578125, 675.7678833007812],
+                    'Rotation': 234.3790435791016
+                }, {
+                    'Position': [1054.099853515625, 1494.029907226563, 706.3349609375],
+                    'Rotation': 103.180549621582
+                }, {
+                    'Position': [1102.999877929688, 1562.239868164063, 733.5228881835938],
+                    'Rotation': 114.2590179443359
+                }, {
+                    'Position': [1018.389953613281, 1436.659912109375, 678.9309692382812],
+                    'Rotation': 214.0555419921875
+                }, {
+                    'Position': [821.5109252929688, 1249.349853515625, 643.513916015625],
+                    'Rotation': 152.0305328369141
+                }, {
+                    'Position': [681.7139282226562, 1139.60986328125, 674.0289306640625],
+                    'Rotation': 138.6933746337891
+                }, {
+                    'Position': [821.0519409179688, 1313.959838867188, 767.6339111328125],
+                    'Rotation': 73.2793197631836
+                }, {
+                    'Position': [677.095947265625, 1208.519897460938, 758.5149536132812],
+                    'Rotation': 131.8261566162109
+                }, {
+                    'Position': [1050.099853515625, 1375.309936523438, 996.3309326171875],
+                    'Rotation': 95.01506805419922
+                }, {
+                    'Position': [967.10595703125, 1322.029907226563, 986.98291015625],
+                    'Rotation': 289.5238647460938
+                }, {
+                    'Position': [947.8059692382812, 1300.529907226563, 1028.429931640625],
+                    'Rotation': 99.96239471435547
+                }, {
+                    'Position': [926.8339233398438, 1257.56982421875, 1066.979858398438],
+                    'Rotation': 58.73577117919922
+                }, {
+                    'Position': [775.5538940429688, 1168.779907226563, 959.6838989257812],
+                    'Rotation': 90.65887451171875
+                }, {
+                    'Position': [554.7909545898438, 1049.209838867188, 861.6609497070312],
+                    'Rotation': 151.1435546875
+                }, {
+                    'Position': [1163.35986328125, 1506.479858398438, 903.9999389648438],
+                    'Rotation': 69.86901092529297
+                }, {
+                    'Position': [1204.56982421875, 1644.579833984375, 817.533935546875],
+                    'Rotation': 65.65460205078125
+                }, {
+                    'Position': [1192.329833984375, 1673.639892578125, 741.5149536132812],
+                    'Rotation': 97.63804626464844
+                }, {
+                    'Position': [1071.219848632813, 1544.559936523438, 770.8569946289062],
+                    'Rotation': 116.6063385009766
+                }]
+            }
+        }]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "asset": {
+        "version": "2.0"
+    },
+    "scene": 0,
+    "scenes": [{
+        "nodes": [ 0 ]
+    }],
+    "nodes": [
+        { "mesh": 0 }
+    ],
+    "materials": [{
+        "doubleSided": true
+    }],
+    "meshes": [{
+        "name": "0",
+        "primitives": [{
+            "attributes": {
+                "POSITION": 0
+            },
+            "mode": 4,
+            "material": 0
+        }]
+    }],
+    "accessors": [{
+        "bufferView": 0,
+        "byteOffset": 0,
+        "count": 137,
+        "componentType": 5126,
+        "type": "VEC3",
+        "max": [ -984.9049682617188, -448.3930969238281, -1254.6739501953125 ],
+        "min": [ -1131.2161865234375, -544.1473999023438, -1333.2139892578125 ]
+    }],
+    "bufferViews": [{
+        "buffer": 0,
+        "byteOffset": 1073856,
+        "byteLength": 644880,
+        "byteStride": 20,
+        "target": 34962
+    }],
+    "buffers": [{
+        "uri": "./LX1.trees",
+        "byteLength": 2225805
+    }]
+}

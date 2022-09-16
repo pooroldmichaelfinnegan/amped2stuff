@@ -1,0 +1,55 @@
+{
+    'BoarderDefinition': {
+        'Name': '',
+        'MeshFilename': 'Characters\\NewCareer\\Career.parts',
+        'Board': "Bobby Meeks' Board",
+        'PreferredStanceIsRegular': True,
+        'WorldRank': 250.0,
+        'CareerStatus': 0.0,
+        'Skills': {
+            'Spin': 0.0,
+            'Balance': 0.0,
+            'Jump': 0.0,
+            'Speed': 0.0,
+            'Switch': 0.0
+        },
+        'BoardSkills': {
+            'Spin': 0.0,
+            'Balance': 0.0,
+            'Jump': 0.0,
+            'Speed': 0.0,
+            'Switch': 0.0
+        },
+        'NumReplays': 0.0,
+        'Options': {
+            'Game': {
+                'Vibration': True,
+                'Hints': True,
+                'ControllerScheme': 'default.control',
+                'CameraDistance': 0.0
+            },
+            'Audio': {
+                'SFXVolume': 0.8,
+                'MusicVolume': 0.8,
+                'SpeechVolume': 0.8,
+                'HeadphonesOn': False,
+                'SongInfoOn': True,
+                'ShufflePlayOn': True
+            },
+            'EducationScreens': {
+                'NormalOn': True,
+                'OTMOn': True,
+                'PhotoShootOn': True,
+                'SponsorOn': True,
+                'ProOn': True,
+                'EventOn': True,
+                'SnowSkateOn': True,
+                'LegendOn': True
+            },
+            'Online': {
+                'LiveVoiceSetting': 0.0,
+                'AppearOnline': True
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 2 ]
+  }],
+  "nodes": [
+    { "mesh": 0 },
+    { "mesh": 1 },
+    { "mesh": 2 }
+  ],
+  "materials": [{
+    "doubleSided": false
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 5
+    }]
+  },{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 1
+      },
+      "material": 0,
+      "mode": 5
+    }]
+  },{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 2
+      },
+      "material": 0,
+      "mode": 5
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 206,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1793.9794921875, 1074.1734619140625, 1000.3508911132812 ],
+    "min": [ 629.9739990234375, 513.1697387695312, 666.12158203125 ]
+  },{
+    "bufferView": 1,
+    "byteOffset": 0,
+    "count": 206,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1793.9794921875, 1074.1734619140625, 1000.3508911132812 ],
+    "min": [ 629.9739990234375, 513.1697387695312, 666.12158203125 ]
+  },{
+    "bufferView": 2,
+    "byteOffset": 0,
+    "count": 206,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1793.9794921875, 1074.1734619140625, 1000.3508911132812 ],
+    "min": [ 629.9739990234375, 513.1697387695312, 666.12158203125 ]
+  },{
+    "bufferView": 2,
+    "byteOffset": 0,
+    "count": 206,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1793.9794921875, 1074.1734619140625, 1000.3508911132812 ],
+    "min": [ 629.9739990234375, 513.1697387695312, 666.12158203125 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 5768,
+    "byteOffset": 0,
+    "byteStride": 28,
+    "target": 34962
+  },{
+    "buffer": 1,
+    "byteLength": 5768,
+    "byteOffset": 1435728,
+    "byteStride": 28,
+    "target": 34962
+  },{
+    "buffer": 2,
+    "byteLength": 5768,
+    "byteOffset": 5435608,
+    "byteStride": 28,
+    "target": 34962
+  },{
+    "buffer": 3,
+    "byteLength": 1986768,
+    "byteOffset": 3999880,
+    "byteStride": 28,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./model_piece47.bin",
+    "byteLength": 5768
+  },{
+    "uri": "./model.bin",
+    "byteLength": 1986768
+  },{
+    "uri": "./BK1.pgf",
+    "byteLength": 12688060
+  },{
+    "uri": "./BK1.pgf",
+    "byteLength": 12688060
+  }]
+}

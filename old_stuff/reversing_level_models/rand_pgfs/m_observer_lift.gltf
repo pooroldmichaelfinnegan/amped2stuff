@@ -1,0 +1,82 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0, 1 ]
+  }],
+  "nodes": [
+    { "mesh": 0 },
+    { "mesh": 1 }
+  ],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 2
+      },
+      "indices": 0,
+      "material": 0,
+      "mode": 5
+    }]
+  },{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 3
+      },
+      "indices": 1,
+      "material": 0,
+      "mode": 5
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 2159,
+    "componentType": 5123,
+    "type": "SCALAR",
+    "max": [ 929 ],
+    "min": [ 0 ]
+  },{
+    "bufferView": 0,
+    "byteOffset": 4318,
+    "count": 103,
+    "componentType": 5123,
+    "type": "SCALAR",
+    "max": [ 39 ],
+    "min": [ 0 ]
+  },{
+    "bufferView": 1,
+    "byteOffset": 0,
+    "count": 930,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 0.6249748468399048, 1.8058298826217651, 0.525888204574585 ],
+    "min": [ -0.3392159640789032, 0.39104339480400085, -0.12236153334379196 ]
+  },{
+    "bufferView": 1,
+    "byteOffset": 22320,
+    "count": 40,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 0.8145010471343994, 0.06521859765052795, 0.17110000550746918 ],
+    "min": [ -0.8145010471343994, -0.00363810989074409, -0.17054100334644318 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 4524,
+    "byteOffset": 121928,
+    "target": 34963
+  },{
+    "buffer": 0,
+    "byteLength": 23280,
+    "byteOffset": 98624,
+    "byteStride": 24,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./m_observer_lift.pgf",
+    "byteLength": 127158
+  }]
+}

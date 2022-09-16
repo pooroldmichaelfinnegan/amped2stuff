@@ -1,0 +1,42 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  }],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 4,
+    "count": 2064,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1280.1583251953125, 1723.2725830078125, 1357.2689208984375 ],
+    "min": [ 148.2518310546875, 782.070556640625, 206.2984161376953 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 24772,
+    "byteOffset": 0,
+    "byteStride": 12,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./Pointfile.dat",
+    "byteLength": 24772
+  }]
+}

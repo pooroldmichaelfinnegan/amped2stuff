@@ -1,0 +1,44 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0, 1, 2 ]
+  }],
+  "nodes": [
+    { "mesh": 0 },
+    { "mesh": 1 },
+    { "mesh": 2 }
+  ],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [
+    { "name": "0", "primitives": [{ "attributes": { "POSITION": 3 }, "indices": 0, "mode": 5, "material": 0 }] },
+    { "name": "1", "primitives": [{ "attributes": { "POSITION": 4 }, "indices": 1, "mode": 5, "material": 0 }] },
+    { "name": "2", "primitives": [{ "attributes": { "POSITION": 5 }, "indices": 2, "mode": 5, "material": 0 }] }
+  ],
+ "accessors": [
+    { "bufferView": 0, "byteOffset": 203196, "count": 204, "componentType": 5123, "type": "SCALAR", "max": [86], "min": [0] },
+    { "bufferView": 0, "byteOffset": 203604, "count": 342, "componentType": 5123, "type": "SCALAR", "max": [205], "min": [0] },
+    { "bufferView": 0, "byteOffset": 204288, "count": 1021, "componentType": 5123, "type": "SCALAR", "max": [523], "min": [0] },
+    { "bufferView": 1, "byteOffset": 1433292, "count": 87, "componentType": 5126, "type": "VEC3", "max": [1622.9786376953125, 947.4677734375, 804.1383666992188], "min": [1445.2481689453125, 754.6065673828125, 598.78857421875] },
+    { "bufferView": 1, "byteOffset": 1435728, "count": 206, "componentType": 5126, "type": "VEC3", "max": [1793.9794921875, 1074.1734619140625, 1000.3508911132812], "min": [629.9739990234375, 513.1697387695312, 666.12158203125] },
+    { "bufferView": 1, "byteOffset": 1441496, "count": 524, "componentType": 5126, "type": "VEC3", "max": [-28.82636260986328, 228.05223083496094, 638.0018310546875], "min": [-186.63845825195312, 132.89022827148438, 441.5511169433594] }
+],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 732386,
+    "byteOffset": 10315692,
+    "target": 34963
+  }, {
+    "buffer": 0,
+    "byteLength": 1986768,
+    "byteOffset": 3999880,
+    "byteStride": 28,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./BK1.pgf",
+    "byteLength": 12688060
+  }]
+}

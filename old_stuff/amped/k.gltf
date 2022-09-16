@@ -1,0 +1,61 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0, 1 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  },
+  {
+    "mesh": 0
+  }],
+  "materials": [{
+    "doubleSided": false
+  },{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 1,
+      "mode": 0
+    },{
+      "attributes": {
+        "POSITION": 1
+      },
+      "material": 1,
+      "mode": 0
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 87,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1207.6810302734375, 1646.3770751953125, 1189.151611328125 ],
+    "min": [ -12.176804542541504, 706.6969604492188, 70.90370178222656 ]
+  },{
+    "bufferView": 0,
+    "byteOffset": 12,
+    "count": 87,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1330.7890625, 1734.8021240234375, 1429.3643798828125 ],
+    "min": [ 328.1670837402344, 860.9571533203125, 373.1715087890625 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 6264,
+    "byteOffset": 7361292,
+    "byteStride": 72,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./nz1.pgf.bin",
+    "byteLength": 8957632
+  }]
+}

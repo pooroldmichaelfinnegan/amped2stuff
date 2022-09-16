@@ -1,0 +1,430 @@
+python3 main.py /Users/g/_m/git/learnding/py/lua_decomp/NewCareer_res/Career.boarder
+
+
+       0        0        4        4      10       NEWTABLE
+
+
+       0      251      252   128764       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{}, None, None, None]
+      R[A] {}
+      K[B] Name
+      K[C]
+
+
+       0      253      254   129790       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': ''}, None, None, None]
+      R[A] {'Name': ''}
+      K[B] MeshFilename
+      K[C] Characters\NewCareer\Career.parts
+
+
+       0      255      256   130816       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts'}, None, None, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts'}
+      K[B] Board
+      K[C] Bobby Meeks' Board
+
+
+       1        1        0      512       2       LOADBOOL
+
+
+       0      257        1   131585       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board"}, None, None, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board"}
+      K[B] PreferredStanceIsRegular
+      R[C] None
+
+
+       0      258      259   132355       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None}, None, None, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None}
+      K[B] WorldRank
+      K[C] 250.0
+
+
+       0      260      261   133381       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0}, None, None, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0}
+      K[B] CareerStatus
+      K[C] 0.0
+
+
+       1        0        3        3      10       NEWTABLE
+
+
+       1      263      261   134917       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0}, {}, None, None]
+      R[A] {}
+      K[B] Spin
+      K[C] 0.0
+
+
+       1      264      261   135429       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0}, {'Spin': 0.0}, None, None]
+      R[A] {'Spin': 0.0}
+      K[B] Balance
+      K[C] 0.0
+
+
+       1      265      261   135941       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0}, {'Spin': 0.0, 'Balance': 0.0}, None, None]
+      R[A] {'Spin': 0.0, 'Balance': 0.0}
+      K[B] Jump
+      K[C] 0.0
+
+
+       1      266      261   136453       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0}, {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0}, None, None]
+      R[A] {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0}
+      K[B] Speed
+      K[C] 0.0
+
+
+       1      267      261   136965       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0}, {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0}, None, None]
+      R[A] {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0}
+      K[B] Switch
+      K[C] 0.0
+
+
+       0      262        1   134145       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0}, {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, None, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0}
+      K[B] Skills
+      R[C] {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}
+
+
+       1        0        3        3      10       NEWTABLE
+
+
+       1      263      261   134917       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}, {}, None, None]
+      R[A] {}
+      K[B] Spin
+      K[C] 0.0
+
+
+       1      264      261   135429       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}, {'Spin': 0.0}, None, None]
+      R[A] {'Spin': 0.0}
+      K[B] Balance
+      K[C] 0.0
+
+
+       1      265      261   135941       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}, {'Spin': 0.0, 'Balance': 0.0}, None, None]
+      R[A] {'Spin': 0.0, 'Balance': 0.0}
+      K[B] Jump
+      K[C] 0.0
+
+
+       1      266      261   136453       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}, {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0}, None, None]
+      R[A] {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0}
+      K[B] Speed
+      K[C] 0.0
+
+
+       1      267      261   136965       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}, {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0}, None, None]
+      R[A] {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0}
+      K[B] Switch
+      K[C] 0.0
+
+
+       0      268        1   137217       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}, {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, None, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}
+      K[B] BoardSkills
+      R[C] {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}
+
+
+       0      269      261   137989       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}, {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, None, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}}
+      K[B] NumReplays
+      K[C] 0.0
+
+
+       1        0        3        3      10       NEWTABLE
+
+
+       2        0        3        3      10       NEWTABLE
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      272        3   139267       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {}, {}, None]
+      R[A] {}
+      K[B] Vibration
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      273        3   139779       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {}, {'Vibration': None}, None]
+      R[A] {'Vibration': None}
+      K[B] Hints
+      R[C] None
+
+
+       2      274      275   140563       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {}, {'Vibration': None, 'Hints': None}, None]
+      R[A] {'Vibration': None, 'Hints': None}
+      K[B] ControllerScheme
+      K[C] default.control
+
+
+       2      276      261   141573       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {}, {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control'}, None]
+      R[A] {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control'}
+      K[B] CameraDistance
+      K[C] 0.0
+
+
+       1      271        2   138754       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {}, {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, None]
+      R[A] {}
+      K[B] Game
+      R[C] {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}
+
+
+       2        0        3        3      10       NEWTABLE
+
+
+       2      278      279   142615       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}, {}, None]
+      R[A] {}
+      K[B] SFXVolume
+      K[C] 0.8
+
+
+       2      280      279   143639       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}, {'SFXVolume': 0.8}, None]
+      R[A] {'SFXVolume': 0.8}
+      K[B] MusicVolume
+      K[C] 0.8
+
+
+       2      281      279   144151       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}, {'SFXVolume': 0.8, 'MusicVolume': 0.8}, None]
+      R[A] {'SFXVolume': 0.8, 'MusicVolume': 0.8}
+      K[B] SpeechVolume
+      K[C] 0.8
+
+
+       3        0        0        0       2       LOADBOOL
+
+
+       2      282        3   144387       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}, {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8}, None]
+      R[A] {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8}
+      K[B] HeadphonesOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      283        3   144899       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}, {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None}, None]
+      R[A] {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None}
+      K[B] SongInfoOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      284        3   145411       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}, {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None}, None]
+      R[A] {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None}
+      K[B] ShufflePlayOn
+      R[C] None
+
+
+       1      277        2   141826       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}, {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, None]
+      R[A] {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}}
+      K[B] Audio
+      R[C] {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}
+
+
+       2        0        4        4      10       NEWTABLE
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      286        3   146435       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {}, None]
+      R[A] {}
+      K[B] NormalOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      287        3   146947       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None}, None]
+      R[A] {'NormalOn': None}
+      K[B] OTMOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      288        3   147459       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None, 'OTMOn': None}, None]
+      R[A] {'NormalOn': None, 'OTMOn': None}
+      K[B] PhotoShootOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      289        3   147971       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None}, None]
+      R[A] {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None}
+      K[B] SponsorOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      290        3   148483       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None}, None]
+      R[A] {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None}
+      K[B] ProOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      291        3   148995       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None}, None]
+      R[A] {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None}
+      K[B] EventOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      292        3   149507       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None}, None]
+      R[A] {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None}
+      K[B] SnowSkateOn
+      R[C] None
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      293        3   150019       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None}, None]
+      R[A] {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None}
+      K[B] LegendOn
+      R[C] None
+
+
+       1      285        2   145922       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}, {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}, None]
+      R[A] {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}}
+      K[B] EducationScreens
+      R[C] {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}
+
+
+       2        0        2        2      10       NEWTABLE
+
+
+       2      295      261   151301       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, 'EducationScreens': {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}}, {}, None]
+      R[A] {}
+      K[B] LiveVoiceSetting
+      K[C] 0.0
+
+
+       3        1        0      512       2       LOADBOOL
+
+
+       2      296        3   151555       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, 'EducationScreens': {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}}, {'LiveVoiceSetting': 0.0}, None]
+      R[A] {'LiveVoiceSetting': 0.0}
+      K[B] AppearOnline
+      R[C] None
+
+
+       1      294        2   150530       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, 'EducationScreens': {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}}, {'LiveVoiceSetting': 0.0, 'AppearOnline': None}, None]
+      R[A] {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, 'EducationScreens': {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}}
+      K[B] Online
+      R[C] {'LiveVoiceSetting': 0.0, 'AppearOnline': None}
+
+
+       0      270        1   138241       9       SETTABLE
+      constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']
+      reg = [{'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}, {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, 'EducationScreens': {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}, 'Online': {'LiveVoiceSetting': 0.0, 'AppearOnline': None}}, {'LiveVoiceSetting': 0.0, 'AppearOnline': None}, None]
+      R[A] {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0}
+      K[B] Options
+      R[C] {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, 'EducationScreens': {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}, 'Online': {'LiveVoiceSetting': 0.0, 'AppearOnline': None}}
+
+
+       0        0        0        0       7      SETGLOBAL
+
+
+       0        1        0      512      27         RETURN
+{'BoarderDefinition': {'Name': '', 'MeshFilename': 'Characters\\NewCareer\\Career.parts', 'Board': "Bobby Meeks' Board", 'PreferredStanceIsRegular': None, 'WorldRank': 250.0, 'CareerStatus': 0.0, 'Skills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'BoardSkills': {'Spin': 0.0, 'Balance': 0.0, 'Jump': 0.0, 'Speed': 0.0, 'Switch': 0.0}, 'NumReplays': 0.0, 'Options': {'Game': {'Vibration': None, 'Hints': None, 'ControllerScheme': 'default.control', 'CameraDistance': 0.0}, 'Audio': {'SFXVolume': 0.8, 'MusicVolume': 0.8, 'SpeechVolume': 0.8, 'HeadphonesOn': None, 'SongInfoOn': None, 'ShufflePlayOn': None}, 'EducationScreens': {'NormalOn': None, 'OTMOn': None, 'PhotoShootOn': None, 'SponsorOn': None, 'ProOn': None, 'EventOn': None, 'SnowSkateOn': None, 'LegendOn': None}, 'Online': {'LiveVoiceSetting': 0.0, 'AppearOnline': None}}}}
+constants_list = ['BoarderDefinition', 'Name', '', 'MeshFilename', 'Characters\\NewCareer\\Career.parts', 'Board', "Bobby Meeks' Board", 'PreferredStanceIsRegular', 'WorldRank', 250.0, 'CareerStatus', 0.0, 'Skills', 'Spin', 'Balance', 'Jump', 'Speed', 'Switch', 'BoardSkills', 'NumReplays', 'Options', 'Game', 'Vibration', 'Hints', 'ControllerScheme', 'default.control', 'CameraDistance', 'Audio', 'SFXVolume', 0.8, 'MusicVolume', 'SpeechVolume', 'HeadphonesOn', 'SongInfoOn', 'ShufflePlayOn', 'EducationScreens', 'NormalOn', 'OTMOn', 'PhotoShootOn', 'SponsorOn', 'ProOn', 'EventOn', 'SnowSkateOn', 'LegendOn', 'Online', 'LiveVoiceSetting', 'AppearOnline']

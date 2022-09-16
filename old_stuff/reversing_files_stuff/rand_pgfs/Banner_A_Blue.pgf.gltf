@@ -1,0 +1,42 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  }],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 87608,
+    "count": 121,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1.3029348850250244, 0.7044628858566284, 0.04083395004272461 ],
+    "min": [ -1.2981982231140137, -0.700702965259552, -0.08662810921669006 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 91526,
+    "byteOffset": 0,
+    "byteStride": 24,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./Banner_A_Blue.pgf.bin",
+    "byteLength": 91526
+  }]
+}

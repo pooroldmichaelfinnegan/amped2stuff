@@ -1,0 +1,65 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 1 ]
+  }],
+  "nodes": [
+    { "mesh": 0 },
+    { "mesh": 1 }
+  ],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  },{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 1
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 3,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 517.0673828125, 1050.0875244140625, 855.658203125 ],
+    "min": [ 508.7189025878906, 1047.1949462890625, 844.0171508789062 ]
+  },{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 83,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 882.3009033203125, 1050.0875244140625, 855.658203125 ],
+    "min": [ -0.1161160096526146, 0.19660843908786774, -0.1619119793176651 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 31740,
+    "byteOffset": 3000,
+    "byteStride": 12,
+    "target": 34962
+  },{
+    "buffer": 0,
+    "byteLength": 2988,
+    "byteOffset": 16,
+    "byteStride": 36,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./NZ1.rl.bin",
+    "byteLength": 34740
+  }]
+}

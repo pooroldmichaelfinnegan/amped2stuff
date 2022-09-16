@@ -1,0 +1,39 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [
+    { "mesh": 0 }
+  ],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [
+    { "name": "0", "primitives": [{ "attributes": { "POSITION": 1 }, "indices": 0, "mode": 5, "material": 0 }] }
+  ],
+ "accessors": [
+    { "bufferView": 0, "byteOffset": 0, "count": 342, "componentType": 5123, "type": "SCALAR", "max": [ 205 ], "min": [ 0 ] },
+    { "bufferView": 1, "byteOffset": 0, "count": 206, "componentType": 5126, "type": "VEC3", "max": [ 1793.9794921875, 1074.1734619140625, 1000.3508911132812 ], "min": [ 629.9739990234375, 513.1697387695312, 666.12158203125 ] }
+],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 684,
+    "byteOffset": 0,
+    "target": 34963
+  }, {
+    "buffer": 1,
+    "byteLength": 5768,
+    "byteOffset": 0,
+    "byteStride": 28,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./BK1.pgf_piece47.indices.bin",
+    "byteLength": 684
+  },{
+    "uri": "./BK1.pgf_piece47.vertices.bin",
+    "byteLength": 5768
+  }]
+}

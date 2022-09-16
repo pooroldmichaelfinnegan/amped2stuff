@@ -1,0 +1,54 @@
+{
+    "ScriptedObjects": {
+        "Objects": [{
+            "Type": "ScriptedSystem",
+            "Name": "Director",
+            "TypeSpecificData": {
+                "Variables": {
+                    "1.0:": {
+                        "VariableGroupScript": "Default"
+                    }
+                },
+                "ScriptName": "Director_MainScript"
+            },
+            "AutoTriggerEnabled": 0.0
+        }, {
+            "Type": "ScriptedSystem",
+            "Name": "NZ1_HeliDrop_CutScene",
+            "TypeSpecificData": {
+                "Variables": {
+                    "1.0:": [{
+                        "Type": "userStringValue",
+                        "Name": "varCutSceneTrigger",
+                        "TableValue": [0.0, 0.0, 0.0],
+                        "Value": -1.0,
+                        "Reference": "NZ1_HeliDrop_CutScene"
+                    }, {
+                        "Type": "userStringValue",
+                        "Name": "varCutSceneStop",
+                        "TableValue": [0.0, 0.0, 0.0],
+                        "Value": -1.0,
+                        "Reference": "Camera"
+                    }, {
+                        "Type": "animation",
+                        "Name": "varCameraAnimation",
+                        "TableValue": [0.0, 0.0, 0.0],
+                        "Value": -1.0,
+                        "Reference": "NZ1_FlyIn"
+                    }]
+                },
+                "ScriptName": "CutScene_OpeningPanorama"
+            },
+            "AutoTriggerEnabled": 0.0
+        }],
+        "TriggerMap": {
+            "ScoringEventTrigger": {
+                "Name": "ScoringEventTrigger",
+                "Listeners": {}
+            }
+        },
+        "DecisionTreeFileName": {
+            "1.0:": "ScriptTable"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+      "nodes": [ 0, 1, 2, 3 ]
+    }],
+    "nodes": [
+      { "mesh": 0 },
+      { "mesh": 1 },
+      { "mesh": 2 },
+      { "mesh": 3 }
+    ],
+    "materials": [{
+      "doubleSided": false
+    }],
+    "meshes": [{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 0
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 1
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 2
+        },
+        "material": 0,
+        "mode": 2
+      }]
+    }, {
+      "primitives": [{
+        "attributes": {
+          "POSITION": 3
+        },
+        "material": 0,
+        "mode": 1
+      }]
+    }],
+    "accessors": [{
+      "bufferView": 0,
+      "byteOffset": 4,
+      "count": 5,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 46.03642272949219, 1064.2666015625, 539.6731567382812 ],
+      "min": [ -128.66383361816406, 1064.2666015625, 325.46392822265625 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 68,
+      "count": 20,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 1902.4278564453125, 1063.8897705078125, 1180.0421142578125 ],
+      "min": [ -74.49624633789062, 1063.8897705078125, 353.8791198730469 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 312,
+      "count": 20,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 1916.9111328125, 1235.8660888671875, 1195.6265869140625 ],
+      "min": [ -83.50636291503906, 967.9815063476562, 340.38079833984375 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 556,
+      "count": 30,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 1315.67138671875, 805.446044921875, 1180.0001220703125 ],
+      "min": [ 2.0954971313476562, 0, 390.0916748046875 ]
+    }],
+    "bufferViews": [{
+      "buffer": 0,
+      "byteLength": 916,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    }],
+    "buffers": [{
+      "uri": "./AU1.bnd",
+      "byteLength": 916
+    }]
+  }

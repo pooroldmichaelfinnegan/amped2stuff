@@ -1,0 +1,35 @@
+{
+    "asset": {
+        "version": "2.0"
+    },
+    "scene": 0,
+    "scenes": [{
+        "nodes": [ 0 ]
+    }],
+    "nodes": [
+        { "mesh": 0 }
+    ],
+    "materials": [{
+        "doubleSided": false
+    }],
+    "meshes": [{ "name": "0", "primitives": [{ "attributes": { "POSITION": 1 }, "indices": 0, "mode": 4, "material": 0 }] }],
+    "accessors": [
+        { "bufferView": 0, "byteOffset": 0, "count": 334692, "componentType": 5125, "type": "SCALAR", "max": [ 51057 ], "min": [ 0 ] },
+        { "bufferView": 1, "byteOffset": 0, "count": 51058, "componentType": 5126, "type": "VEC3", "max": [ 821.7281494140625, 532.2933959960938, 592.4771118164062], "min": [-1185.744140625, -229.21237182617188, -238.6839141845703] }
+    ],
+    "bufferViews": [{
+        "buffer": 0,
+        "byteOffset": 612696,
+        "byteLength": 1338768,
+        "target": 34963
+    }, {
+        "buffer": 0,
+        "byteOffset": 0,
+        "byteLength": 612696,
+        "target": 34962
+    }],
+    "buffers": [{
+        "uri": "./model_ground_.bin",
+        "byteLength": 1951464
+    }]
+}

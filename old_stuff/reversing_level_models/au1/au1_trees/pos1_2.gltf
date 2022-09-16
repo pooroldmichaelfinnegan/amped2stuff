@@ -1,0 +1,42 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [
+    { "mesh": 0 }
+  ],
+  "materials": [{
+    "doubleSided": false
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 1
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 926,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 0, 0, 0 ],
+    "min": [ 0, 0, 0 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 11112,
+    "byteOffset": 0,
+    "byteStride": 12,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./pos1_2.bin",
+    "byteLength": 11112
+  }]
+}

@@ -1,0 +1,36 @@
+{
+    "asset": {
+        "version": "2.0"
+    },
+    "scene": 0,
+    "scenes": [{
+        "nodes": [ 0 ]
+    }],
+    "nodes": [
+        { "mesh": 0 }
+    ],
+    "materials": [{
+        "doubleSided": false
+    }],
+    "meshes": [{ "name": "0", "primitives": [{ "attributes": { "POSITION": 1 }, "indices": 0, "mode": 5, "material": 0 }] }],
+    "accessors": [
+        { "bufferView": 0, "byteOffset": 0, "count": 224038, "componentType": 5125, "type": "SCALAR", "max": [ 105704 ], "min": [ 0 ] },
+        { "bufferView": 1, "byteOffset": 0, "count": 105705, "componentType": 5126, "type": "VEC3", "max": [ 15857.9599609375, 14466.1728515625, 19912.294921875], "min": [-31294.607421875, -6460.47509765625, -27307.888671875] }
+    ],
+    "bufferViews": [{
+        "buffer": 0,
+        "byteOffset": 0,
+        "byteLength": 896152,
+        "target": 34963
+    }, {
+        "buffer": 0,
+        "byteOffset": 896152,
+        "byteLength": 1268460,
+        "byteStride": 12,
+        "target": 34962
+    }],
+    "buffers": [{
+        "uri": "./second_main2.bin",
+        "byteLength": 2164612
+    }]
+}

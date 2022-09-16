@@ -1,0 +1,99 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+      "nodes": [ 3 ]
+    }],
+    "nodes": [
+      { "mesh": 0 },
+      { "mesh": 1 },
+      { "mesh": 2 },
+      { "mesh": 3 }
+    ],
+    "materials": [{
+      "doubleSided": false
+    }],
+    "meshes": [{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 0
+        },
+        "material": 0,
+        "mode": 0
+      }]
+    },{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 1
+        },
+        "material": 0,
+        "mode": 0
+      }]
+    },{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 2
+        },
+        "material": 0,
+        "mode": 0
+      }]
+    },{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 3
+        },
+        "material": 0,
+        "mode": 0
+      }]
+    }],
+    "accessors": [{
+      "bufferView": 0,
+      "byteOffset": 0,
+      "count": 463,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 100.0, 0.0, 100.0 ],
+      "min": [ -100.0, 0.0,-100.0 ]
+    },{
+      "bufferView": 0,
+      "byteOffset": 12,
+      "count": 463,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 100.0, 0.0, 100.0 ],
+      "min": [ -100.0, 0.0,-100.0 ]
+    },{
+      "bufferView": 1,
+      "byteOffset": 0,
+      "count": 5330,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 100.0, 0.0, 100.0 ],
+      "min": [ -100.0, 0.0,-100.0 ]
+    },{
+      "bufferView": 1,
+      "byteOffset": 12,
+      "count": 5330,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 100.0, 100.0, 100.0 ],
+      "min": [ -100.0, -100.0, -100.0 ]
+    }],
+    "bufferViews": [{
+      "buffer": 0,
+      "byteLength": 127920,
+      "byteOffset": 24,
+      "byteStride": 40,
+      "target": 34962
+    },{
+      "buffer": 0,
+      "byteLength": 127920,
+      "byteOffset": 18544,
+      "byteStride": 24,
+      "target": 34962
+    }],
+    "buffers": [{
+      "uri": "./AU1.treehit",
+      "byteLength": 146464
+    }]
+  }

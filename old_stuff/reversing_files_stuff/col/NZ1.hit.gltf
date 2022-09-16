@@ -1,0 +1,42 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  }],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 0
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 8,
+    "count": 419,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 2000.0, 2000.0, 2000.0 ],
+    "min": [ -2000.0, -2000.0, -2000.0 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 63130,
+    "byteOffset": 308,
+    "byteStride": 40,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./NZ1.hit.bin",
+    "byteLength": 63438
+  }]
+}

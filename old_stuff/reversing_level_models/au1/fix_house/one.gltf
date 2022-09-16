@@ -1,0 +1,42 @@
+{
+    "asset": { "version": "2.0" },
+    "scene": 0,
+    "scenes": [{
+      "nodes": [ 0 ]
+    }],
+    "nodes": [
+      { "mesh": 0 }
+    ],
+    "materials": [{
+      "doubleSided": false
+    }],
+    "meshes": [{
+      "primitives": [{
+        "attributes": {
+          "POSITION": 0
+        },
+        "material": 0,
+        "mode": 5
+      }]
+    }],
+    "accessors": [{
+      "bufferView": 0,
+      "byteOffset": 0,
+      "count": 201,
+      "componentType": 5126,
+      "type": "VEC3",
+      "max": [ 0.7534564137458801, 90.09706115722656, -0.4242568910121918 ],
+      "min": [ -1054.900146484375, -226.36997985839844, -459.7023620605469 ]
+    }],
+    "bufferViews": [{
+      "buffer": 0,
+      "byteLength": 6432,
+      "byteOffset": 0,
+      "byteStride": 32,
+      "target": 34962
+    }],
+    "buffers": [{
+      "uri": "./fix_house.bin",
+      "byteLength": 6432
+    }]
+  }

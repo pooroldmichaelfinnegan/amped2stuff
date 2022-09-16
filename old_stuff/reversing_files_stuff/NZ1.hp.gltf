@@ -1,0 +1,99 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  }],
+  "materials": [{
+    "doubleSided": true
+  }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 0,
+      "mode": 2
+    },{
+      "attributes": {
+        "POSITION": 1
+      },
+      "material": 0,
+      "mode": 2
+    },{
+      "attributes": {
+        "POSITION": 2
+      },
+      "material": 0,
+      "mode": 2
+    },{
+      "attributes": {
+        "POSITION": 3
+      },
+      "material": 0,
+      "mode": 2
+    },{
+      "attributes": {
+        "POSITION": 4
+      },
+      "material": 0,
+      "mode": 2
+    }]
+  }],
+
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 24,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1149.14794921875, 1552.33544921875, 927.7918090820312 ],
+    "min": [ 1120.23583984375, 1472.826416015625, 825.6574096679688 ]
+  },{
+    "bufferView": 0,
+    "byteOffset": 288,
+    "count": 6,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 522.8970336914062, 1050.0775146484375, 855.658203125 ],
+    "min": [ 508.7189025878906, 1039.273193359375, 841.8021850585938 ]
+  },{
+    "bufferView": 0,
+    "byteOffset": 360,
+    "count": 10,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 1032.607177734375, 1452.717041015625, 889.404296875 ],
+    "min": [ 986.9583740234375, 1379.64794921875, 807.9736938476562 ]
+  },{
+    "bufferView": 0,
+    "byteOffset": 480,
+    "count": 6,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 579.381103515625, 1053.037109375, 840.1932373046875 ],
+    "min": [ 565.3133544921875, 1042.64306640625, 823.8564453125 ]
+  },{
+    "bufferView": 0,
+    "byteOffset": 552,
+    "count": 26,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 639.408203125, 1085.6337890625, 920.127685546875 ],
+    "min": [ 601.8133544921875, 1059.88427734375, 892.956787109375 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 864,
+    "byteOffset": 0,
+    "byteStride": 12,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./block5.bin",
+    "byteLength": 864
+  }]
+}

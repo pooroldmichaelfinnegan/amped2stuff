@@ -1,0 +1,43 @@
+{
+  "asset": { "version": "2.0" },
+  "scene": 0,
+  "scenes": [{
+    "nodes": [ 0 ]
+  }],
+  "nodes": [{
+    "mesh": 0
+  }],
+  "materials": [
+    { "doubleSided": false },
+    { "doubleSided": true }
+  ],
+  "meshes": [{
+    "primitives": [{
+      "attributes": {
+        "POSITION": 0
+      },
+      "material": 1,
+      "mode": 0
+    }]
+  }],
+  "accessors": [{
+    "bufferView": 0,
+    "byteOffset": 0,
+    "count": 3709,
+    "componentType": 5126,
+    "type": "VEC3",
+    "max": [ 649.7444458007812, 1185.7440185546875, 1047.0782470703125 ],
+    "min": [ 461.7990417480469, 1042.8289794921875, 857.565185546875 ]
+  }],
+  "bufferViews": [{
+    "buffer": 0,
+    "byteLength": 103852,
+    "byteOffset": 0,
+    "byteStride": 28,
+    "target": 34962
+  }],
+  "buffers": [{
+    "uri": "./piece7_vertices_stride28.bin",
+    "byteLength": 103852  
+  }]
+}
